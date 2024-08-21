@@ -27,7 +27,7 @@ const Navbar = (props) => {
                             <Link className={`nav-link ${location.pathname === "/about" ? "active" : ""}`} to="/about">About</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className={`nav-link`} to="https://github.com/Samya-S/inotebook" target='_blank'>View Source Code</Link>
+                            <Link className={`nav-link`} to="https://github.com/sohelkureshi/eNotebook" target='_blank'>View Source Code</Link>
                         </li>
                     </ul>
                     {(!localStorage.getItem('token')) ?
