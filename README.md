@@ -1,4 +1,5 @@
-# E-notebook
+# E-notebook live link https://e-notebook-fu9z.onrender.com
+
 
  - Designed and developed a full (MERN) stack notes-taking application using React, Redux, Node.js, Express, and MongoDB. Implemented user authentication with JSON Web Tokens (JWT) and created features for note creation, editing, deletion, categorization, and searching. Demonstrated proficiency in building a scalable and efficient application with a user-friendly interface. 
 
